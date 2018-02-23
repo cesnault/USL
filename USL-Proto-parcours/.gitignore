@@ -1,0 +1,9 @@
+#ignored files:
+/Content/StarterContent
+.vs
+/Binaries
+/Intermediate
+/Saved
+*.db
+*.sln
+*.opendb
