@@ -33,5 +33,5 @@ Glissade :
 - Slide Speed : 600
 - Freiner après 400 unités de longueur parcourues
 
-Fichier C++ : C++ Classes/USL/BaseCharacter
+Fichier C++ : C++ Classes/USL/BaseCharacter (Penser à générer les fichier Visual Studio)
 Blueprint : Content/Blueprint/MyBaseCharacter
